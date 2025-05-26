@@ -1,1 +1,6 @@
-# Progres-Belajar
+Progres Belajar Materi Front End Web Development
+
+26 Mei 2025 s.d 
+Modul Belajar Dasar Git dengan Github
+* Git dan Github
+* Dasar Git
