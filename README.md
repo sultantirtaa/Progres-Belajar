@@ -9,3 +9,7 @@
 - Kolaborasi dengan Team
 - Studi Kasus Kolaborasi dengan Team
 - GitHub sebagai Portofolio
+
+### Modul Belajar Dasar Pemrograman Web
+**10 Juni s.d**
+- Pendahuluan
