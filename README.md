@@ -14,4 +14,4 @@
 **10 Juni s.d**
 - Pendahuluan
 - Pengenalan HTML
-- Pendalaman HTML (Latihan:Menetapkan Elemen Header, Main, dan Footer di Halaman Profil)
+- Pendalaman HTML (Latihan: Menerapkan Elemen Tabel pada Halaman Profil)
