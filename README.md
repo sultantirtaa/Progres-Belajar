@@ -14,4 +14,6 @@
 **10 Juni s.d**
 - Pendahuluan
 - Pengenalan HTML
-- Pendalaman HTML (Latihan: Menerapkan Elemen Tabel pada Halaman Profil)
+- Pendalaman HTML
+- Pengenalan CSS
+- Pendalaman CSS (Warna untuk Teks dan Latar Belakang)
