@@ -16,4 +16,4 @@
 - Pengenalan HTML
 - Pendalaman HTML
 - Pengenalan CSS
-- Pendalaman CSS (Warna untuk Teks dan Latar Belakang)
+- Pendalaman CSS (Box Model: Box Dimensions)
