@@ -16,4 +16,4 @@
 - Pengenalan HTML
 - Pendalaman HTML
 - Pengenalan CSS
-- Pendalaman CSS (Box Model: Box Dimensions)
+- Pendalaman CSS (Box Model: Centering Content)
