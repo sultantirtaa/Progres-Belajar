@@ -16,4 +16,4 @@
 - Pengenalan HTML
 - Pendalaman HTML
 - Pengenalan CSS
-- Pendalaman CSS (Box Model: Centering Content)
+- Pendalaman CSS (Latihan: Menerapkan Jumbotron dan Navigasi pada Elemen Header)
