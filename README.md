@@ -16,4 +16,4 @@
 - Pengenalan HTML
 - Pendalaman HTML
 - Pengenalan CSS
-- Pendalaman CSS (Latihan: Menerapkan Jumbotron dan Navigasi pada Elemen Header)
+- Pendalaman CSS (Positioning: Absolute Positioning)
