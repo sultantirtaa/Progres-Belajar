@@ -16,4 +16,5 @@
 - Pengenalan HTML
 - Pendalaman HTML
 - Pengenalan CSS
-- Pendalaman CSS (Pengantar Flexbox)
+- Pendalaman CSS
+- Layout Responsif dengan Flexbox
